@@ -27,7 +27,7 @@
         border-radius: 30px;
         height: 50px;
         text-align: center;
-        box-shadow: 2px 2px 2px gray;
+        box-shadow: 2px 2px 2px lightgray;
         margin-top: 10px;
         button {
             display: inline-block;
@@ -43,7 +43,7 @@
             display: inline-block;
         }
         &:hover {
-            box-shadow: 3px 3px 3px gray;
+            box-shadow: 3px 3px 3px lightgray;
         }
         @include d(m) {
             width: 600px;

@@ -727,8 +727,8 @@ p {
   border-radius: 30px;
   height: 50px;
   text-align: center;
-  -webkit-box-shadow: 2px 2px 2px gray;
-          box-shadow: 2px 2px 2px gray;
+  -webkit-box-shadow: 2px 2px 2px lightgray;
+          box-shadow: 2px 2px 2px lightgray;
   margin-top: 10px;
 }
 
@@ -752,8 +752,8 @@ p {
 }
 
 .header_menu:hover {
-  -webkit-box-shadow: 3px 3px 3px gray;
-          box-shadow: 3px 3px 3px gray;
+  -webkit-box-shadow: 3px 3px 3px lightgray;
+          box-shadow: 3px 3px 3px lightgray;
 }
 
 @media screen and (min-width: 760px) and (max-width: 1200px) {
