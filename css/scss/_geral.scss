@@ -24,6 +24,7 @@ h1 {
     @include d(s) {
         @include tipo-1(18);
         margin-top: 40px;
+        text-align: center;
     }
 }
 
